@@ -1,3 +1,4 @@
 Resolusi 2022 :
 - Menguasai properti css dasar, css layouting, dan css 3
 - Menguasai Javascript lanjutan
+- Bisa membuat website yang interaktif
